@@ -18,7 +18,12 @@ We are hosting the code on a GitHub repository and on GitHub Pages.
 
 I originally had issues with working out if I should use one array or multiple. I went with multiple.
 
-Next was the validation. I knew what I wanted to do but I wasn't sure how to write it.
+Next was the validation. I knew what I wanted to do but I wasn't sure how to write it. There are a few ideas I have but I wasn't sure how to execute them:
+
+* Push a minimum of 1 character of each available character array into the main array and then subtract the number of times that the prompt had been accepted
+* Declare each available character array earlier then divide the number of characters chosen by the password types accepted.
+
+In the end I wasn't able to achieve it based on what I had learned so far. I did the bonus question in the hope that it would help my final mark and I knew I would improve from here in future.
 
 ## Final Thoughts
 
