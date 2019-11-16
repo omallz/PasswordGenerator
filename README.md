@@ -27,7 +27,7 @@ In the end I wasn't able to achieve it based on what I had learned so far. I did
 
 ## Final Thoughts
 
-I found this to be quite a step up from previous assignments overall.
+I found this to be quite a step up from previous assignments overall. I believe I have a bit of burn out from working in the same industry and need to find a way to refocus before the next assignment. 
 
 ## Credits
 
