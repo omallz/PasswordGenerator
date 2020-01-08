@@ -8,6 +8,8 @@ One must be chosen for the password to generate and then it should be placed int
 
 Optionally we could add the ability to copy to the clipboard.
 
+Accessible via https://omallz.github.io/PasswordGenerator/.
+
 ## How This Was Achieved
 
 I took the example code from the Bootcampspot repository and imported Bootstrap 4 as per Assignment 2. 
